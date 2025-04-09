@@ -4,11 +4,9 @@ Este repositório contém um projeto de reconhecimento facial voltado para a ide
 
 ## Estrutura do Repositório
 
-- `data/`: Contém os dados de entrada, como imagens e anotações.
-- `notebooks/`: Notebooks Jupyter para experimentação e análise.
-- `src/`: Código-fonte do projeto.
-- `models/`: Modelos treinados e checkpoints.
-- `results/`: Resultados gerados, como gráficos e relatórios.
+- `yolo.ipynb/`: Notebooks Jupyter para experimentação e análise.
+- `main.py/`: Código-fonte do projeto.
+- `yolo_acne_detection.h5/`: Modelo treinado.
 - `README.md`: Documentação do projeto.
 
 ## Pré-requisitos
